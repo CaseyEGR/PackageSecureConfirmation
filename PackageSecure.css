@@ -1,0 +1,53 @@
+
+body {
+  background-image: url("awscloud.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+
+h1 {
+left: 50px;
+  top: 100px;
+}
+
+.confirm{
+position:absolute;
+position: relative; left: 10%; height: 50%;
+
+}
+
+.deny{
+position:absolute;
+position: relative; left: 15%; height: 90%;
+}
+.bordered1{
+	position:absolute;
+	position: relative; left: 1400%; height: 150%;
+}
+
+div {
+
+
+
+
+/*
+
+	margin: 0;
+	padding: 0;
+	list-style: 0;
+
+
+
+	display: inline-block;
+	margin: 1em;
+
+*/
+
+	font-weight: 700;
+	text-decoration: bold;
+	text-transform: uppercase;
+
+
+}
