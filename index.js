@@ -1,4 +1,4 @@
-confirmationButton = document.getElementsByClassName("confirm_hyperlink")[0];
+confirmationButton = document.getElementsByClassName("confirm")[0];
 denyButton = document.getElementsByClassName("deny")[0];
 confirmationButton.addEventListener("click", confirmClicked);
 denyButton.addEventListener("click", denyClicked);
