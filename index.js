@@ -4,7 +4,7 @@ denyButton = document.getElementsByClassName("deny")[0];
 confirmationButton.addEventListener("click", confirmClicked);
 denyButton.addEventListener("click", denyClicked);
 
-var socket = io('http://localhost:3100');
+var socket = io('https://git.heroku.com/quiet-bayou-57031.git');
 
 function confirmClicked(){
 	socket.emit('confirm', { confirm: 'Package was confirmed' });
