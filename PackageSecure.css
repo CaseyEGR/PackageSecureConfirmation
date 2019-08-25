@@ -65,12 +65,14 @@ body {
 h1 {
   left: 0px;
   top: 100px;
-  padding-left: 290px;
+  padding-left: 250px;
 }
 
 .confirm{
 position:absolute;
 position: relative; left: 0%; height: 200%;
+color: black;
+font-size: 80px;
 
 }
 
@@ -85,6 +87,8 @@ position: relative; left: 0%; height: 200%;
 .deny{
 position:absolute;
 position: relative; left: 0%; height: 200%;
+color: black;
+font-size: 80px;
 }
 .bordered1{
 	position:absolute;
