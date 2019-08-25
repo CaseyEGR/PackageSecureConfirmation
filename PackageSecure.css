@@ -13,8 +13,33 @@ body {
 
 
 
+.bordered {
+    background-color: Lime;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.bordered {border-radius: 12px;}
+.bordered1 {border-radius: 12px;}
 
 
+.bordered1 {
+    background-color: Red;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
 
 
 h1 {
