@@ -29,6 +29,22 @@ body {
 .bordered1 {border-radius: 12px;}
 
 
+
+
+.bordered {
+  display: block;
+  width: 50%;
+  border-radius: 12px; none;
+  background-color: Lime;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+
+
+
 .bordered1 {
     background-color: Red;
     border: none;
@@ -109,20 +125,6 @@ body {
     left: 202px;
     top: 198px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
